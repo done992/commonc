@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/6/2/iterator
+END
+iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/6/2/iterator/iterator.h
+END
+darray_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/6/2/iterator/darray_iterator.h
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/6/2/iterator/typedef.h
+END
+invert.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/6/2/iterator/invert.c
+END
+linear_container_dlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/6/2/iterator/linear_container_dlist.c
+END
+linear_container_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/6/2/iterator/linear_container_test.c
+END
+test_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/6/2/iterator/test_helper.c
+END
+linear_container_darray.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/6/2/iterator/linear_container_darray.c
+END
+dlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/6/2/iterator/dlist.c
+END
+linear_container_dlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/6/2/iterator/linear_container_dlist.h
+END
+linear_container.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/6/2/iterator/linear_container.h
+END
+darray.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/6/2/iterator/darray.c
+END
+linear_container_darray.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/6/2/iterator/linear_container_darray.h
+END
+dlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/6/2/iterator/dlist.h
+END
+darray.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/6/2/iterator/darray.h
+END
+dlist_iterator.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/6/2/iterator/dlist_iterator.c
+END
+invert_ng.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/6/2/iterator/invert_ng.c
+END
+darray_iterator.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/6/2/iterator/darray_iterator.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/6/2/iterator/Makefile
+END
+dlist_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/6/2/iterator/dlist_iterator.h
+END

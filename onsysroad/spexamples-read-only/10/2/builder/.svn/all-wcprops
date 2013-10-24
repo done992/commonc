@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/10/2/builder
+END
+xml_tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/10/2/builder/xml_tree.c
+END
+xml_builder_dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/10/2/builder/xml_builder_dump.h
+END
+xml_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/10/2/builder/xml_parser.h
+END
+xml_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/10/2/builder/xml_tree.h
+END
+xml_builder_tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/10/2/builder/xml_builder_tree.c
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/10/2/builder/typedef.h
+END
+xml_builder_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/10/2/builder/xml_builder_tree.h
+END
+xml_builder_dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/10/2/builder/xml_builder_dump.c
+END
+xml_parser_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/10/2/builder/xml_parser_test.c
+END
+xml_builder.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/10/2/builder/xml_builder.h
+END
+xml_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/10/2/builder/xml_parser.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/10/2/builder/Makefile
+END

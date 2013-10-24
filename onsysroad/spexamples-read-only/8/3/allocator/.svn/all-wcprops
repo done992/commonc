@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/8/3/allocator
+END
+allocator_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/8/3/allocator/allocator_pool.h
+END
+allocator_shmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/8/3/allocator/allocator_shmem.h
+END
+allocator_checkbo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/8/3/allocator/allocator_checkbo.c
+END
+allocator_self_manage.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/8/3/allocator/allocator_self_manage.c
+END
+allocator_checkbo.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/8/3/allocator/allocator_checkbo.h
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/8/3/allocator/typedef.h
+END
+allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/8/3/allocator/allocator.h
+END
+allocator_self_manage.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/8/3/allocator/allocator_self_manage.h
+END
+allocator_normal.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/8/3/allocator/allocator_normal.c
+END
+allocator_shmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/8/3/allocator/allocator_shmem.c
+END
+allocator_pool.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/8/3/allocator/allocator_pool.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/8/3/allocator/Makefile
+END
+allocator_normal.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/8/3/allocator/allocator_normal.h
+END

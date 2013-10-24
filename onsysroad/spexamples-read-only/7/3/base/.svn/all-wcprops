@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/11/trunk/7/3/base
+END
+base.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/7/3/base/base.pc.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/9/trunk/7/3/base/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/9/trunk/7/3/base/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/7/3/base/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/9/trunk/7/3/base/configure.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/9/trunk/7/3/base/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/7/3/base/ChangeLog
+END
+autoscan.log
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/7/3/base/autoscan.log
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/9/trunk/7/3/base/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/9/trunk/7/3/base/config.h.in
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/9/trunk/7/3/base/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/9/trunk/7/3/base/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/9/trunk/7/3/base/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/9/trunk/7/3/base/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/9/trunk/7/3/base/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/7/3/base/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/9/trunk/7/3/base/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/9/trunk/7/3/base/install-sh
+END

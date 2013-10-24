@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/8/trunk/7/2/helloworld
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7/trunk/7/2/helloworld/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8/trunk/7/2/helloworld/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/7/2/helloworld/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7/trunk/7/2/helloworld/configure.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/7/2/helloworld/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/7/2/helloworld/ChangeLog
+END
+autoscan.log
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/7/2/helloworld/autoscan.log
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7/trunk/7/2/helloworld/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/7/2/helloworld/config.h.in
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/7/2/helloworld/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/7/2/helloworld/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7/trunk/7/2/helloworld/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/7/2/helloworld/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/7/2/helloworld/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/7/2/helloworld/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/7/2/helloworld/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7/trunk/7/2/helloworld/install-sh
+END

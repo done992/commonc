@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5/trunk/1/6/data_store
+END
+toupper.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/1/6/data_store/toupper.c
+END
+dlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/1/6/data_store/dlist.c
+END
+dlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/1/6/data_store/dlist.h
+END
+heap_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/1/6/data_store/heap_error.c
+END
+bss.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/1/6/data_store/bss.c
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/1/6/data_store/data.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/1/6/data_store/Makefile
+END
+dlist_toupper.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/1/6/data_store/dlist_toupper.c
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/10/1/state
+END
+xml_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/10/1/state/xml_parser.h
+END
+count_word.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/10/1/state/count_word.c
+END
+word_segmentation.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/10/1/state/word_segmentation.c
+END
+parse_token.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/10/1/state/parse_token.c
+END
+ini_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/10/1/state/ini_parser.c
+END
+xml_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/10/1/state/xml_parser.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/10/1/state/Makefile
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/10/trunk/7/4/appdemo
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/7/4/appdemo/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/7/4/appdemo/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/7/4/appdemo/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/7/4/appdemo/configure.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/7/4/appdemo/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/7/4/appdemo/ChangeLog
+END
+autoscan.log
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/7/4/appdemo/autoscan.log
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/7/4/appdemo/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/7/4/appdemo/config.h.in
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/7/4/appdemo/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/7/4/appdemo/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10/trunk/7/4/appdemo/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/7/4/appdemo/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/7/4/appdemo/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/7/4/appdemo/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/7/4/appdemo/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/7/4/appdemo/install-sh
+END
